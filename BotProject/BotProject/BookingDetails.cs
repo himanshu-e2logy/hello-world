@@ -5,7 +5,7 @@
 
 namespace BotProject
 {
-    public class BookingDetails
+    public class BookingDetails 
     {
         public string Destination { get; set; }
          
